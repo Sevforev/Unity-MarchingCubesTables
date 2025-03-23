@@ -3,7 +3,7 @@ Marching Cubes triangulation tables for Unity
 
 # Credits
 
-Tables originally from (Paul Bourke's Polygonising a scalar field, 1994)[https://paulbourke.net/geometry/polygonise/]
+Tables originally from [Paul Bourke's Polygonising a scalar field (1994)](https://paulbourke.net/geometry/polygonise/)
 
 # Info
 
